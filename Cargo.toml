@@ -2,8 +2,8 @@
 name = "jmaple"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "the red rust rewrite of cbonsai inspired by my dads japanese red maple tree"
+license = "MIT"
 
 [dependencies]
 cursive = "0.20.0"
